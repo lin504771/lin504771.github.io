@@ -1,0 +1,23 @@
+* {
+    background-image: url("./Confetti.jpg") repeat #87ceeb;
+}
+h1 {
+    font-family: impact;
+    text-align: center;
+} 
+
+p {
+    font-family: cursive;
+}
+
+img, .boing {
+    float: left;
+    width:33%;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
